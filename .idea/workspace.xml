@@ -2,27 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62a54aed-9b3c-41fb-bcf7-21eb84b1fdb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PythagoreanTripleQ9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pip-21.0.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pip-21.0.dist-info/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pip-21.0.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pip-21.0.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pip-21.0.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pip-21.0.dist-info/entry_points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pip-21.0.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pip/_vendor/chardet/langrussianmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pip/_vendor/chardet/metadata/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pip/_vendor/chardet/metadata/languages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/setuptools-52.0.0.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/setuptools-52.0.0.dist-info/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/setuptools-52.0.0.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/setuptools-52.0.0.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/setuptools-52.0.0.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/setuptools-52.0.0.dist-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/setuptools-52.0.0.dist-info/entry_points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/setuptools-52.0.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum_of_primes_2mill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tenthousthprime.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10001thprime.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,15 +252,15 @@
     </configuration>
     <list>
       <item itemvalue="Python.PE1" />
+      <item itemvalue="Python.PE25" />
       <item itemvalue="Python.PE2" />
       <item itemvalue="Python.PE3" />
       <item itemvalue="Python.PE4" />
       <item itemvalue="Python.PE5" />
-      <item itemvalue="Python.PE25" />
-      <item itemvalue="Python.sieve" />
+      <item itemvalue="Python.PE6" />
       <item itemvalue="Python.PE8 prodseries" />
       <item itemvalue="Python.PE9 PYTHAG" />
-      <item itemvalue="Python.PE6" />
+      <item itemvalue="Python.sieve" />
     </list>
   </component>
   <component name="ServiceViewManager">
